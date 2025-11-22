@@ -1,0 +1,5 @@
+{
+  "name": "SonicSlice - AI Audio Cutter",
+  "description": "A professional web-based audio editor to cut, join, and process MP3/WAV files directly in your browser. Features real-time waveform visualization and AI-powered file naming.",
+  "requestFramePermissions": []
+}
